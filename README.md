@@ -17,6 +17,7 @@ This means that if I understood the terms and conditions correctly, this tool do
 
 Unfortunately, I myself am not a great Path of Exile players, and even though I have been playing for more leagues than I want to admit, I amassed a total of **seven** Exalted orbs. This in combination with the fact that I have seen a Hunter’s Exalted Orb once, results in my program not being able to comprehend these high value currencies stacks. If you however surpassed my immense wealth and wish to trade in multiple stacks of Exalted orbs, consider making my program smarter by showing me how such stacks look like. Don’t worry, I won’t try to scam you out of your valuables, I suggest you take little flex picture with the currency stacks ordered in the following way.
 
+![following way](https://github.com/FTrygg/ChaosCounter/edit/master/concept.jpg?raw=true)
 Picture of concept, example
 
 Please make sure, that you do not have **any** colour correction turned on or that the stacks are covered by your mouse. With these pictures, I can teach my little program how to deal with aristocracy trades in this game. 
