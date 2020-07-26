@@ -26,11 +26,11 @@ This project was started as an excuse for me to investigate the OpenCV library. 
 As a result, my program will only visually show you how much currency of each stack is found, and my source code will not be published. If you think there is a better way of dealing with this, let me know, as I usually am a big fan of sharing code. I just think I could make matters a lot worse, which is not what I strive for.   
 
 Again, my tool is not perfect, make sure to double check the trade. I am open to suggestions, but understand that I am just a student doing this in my free time. 
-Should you lack a meaningful way to invest your real world currency, after buying all supporter packs and MTXs, feel free to donate me some leftovers, so that maybe one day I can buy one myself. If not, no worries, I am a student and understand 😊
+Should you lack a meaningful way to invest your real world currency, after buying all supporter packs and MTXs, feel free to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUXL8CBVZJ94C&source=url) me some leftovers, so that maybe one day I can buy one myself. If not, no worries, I am a student and understand 😊
 
 Thanks for reading and have a good one!
 
-*NotAChineseTradingBot
+*NotAChineseTradingBot*
 
 
 
