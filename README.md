@@ -15,7 +15,7 @@ This means that if I understood the terms and conditions correctly, this tool do
 * Utilizing all your cores
 * A little bit of a “close enough” approach
 
-Unfortunately, I myself am not a great Path of Exile players, and even though I have been playing for more leagues than I want to admit, I amassed a total of **bold** seven Exalted orbs. This in combination with the fact that I have seen a Hunter’s Exalted Orb once, results in my program not being able to comprehend these high value currencies stacks. If you however surpassed my immense wealth and wish to trade in multiple stacks of Exalted orbs, consider making my program smarter by showing me how such stacks look like. Don’t worry, I won’t try to scam you out of your valuables, I suggest you take little flex picture with the currency stacks ordered in the following way.
+Unfortunately, I myself am not a great Path of Exile players, and even though I have been playing for more leagues than I want to admit, I amassed a total of **seven** Exalted orbs. This in combination with the fact that I have seen a Hunter’s Exalted Orb once, results in my program not being able to comprehend these high value currencies stacks. If you however surpassed my immense wealth and wish to trade in multiple stacks of Exalted orbs, consider making my program smarter by showing me how such stacks look like. Don’t worry, I won’t try to scam you out of your valuables, I suggest you take little flex picture with the currency stacks ordered in the following way.
 
 Picture of concept, example
 
@@ -30,7 +30,7 @@ Should you lack a meaningful way to invest your real world currency, after buyin
 
 Thanks for reading and have a good one!
 
-NotAChineseTradingBot
+*NotAChineseTradingBot
 
 
 
