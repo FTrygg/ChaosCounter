@@ -18,7 +18,7 @@ This means that if I understood the terms and conditions correctly, this tool do
 Unfortunately, I myself am not a great Path of Exile players, and even though I have been playing for more leagues than I want to admit, I amassed a total of **seven** Exalted orbs. This in combination with the fact that I have seen a Hunter’s Exalted Orb once, results in my program not being able to comprehend these high value currencies stacks. If you however surpassed my immense wealth and wish to trade in multiple stacks of Exalted orbs, consider making my program smarter by showing me how such stacks look like. Don’t worry, I won’t try to scam you out of your valuables, I suggest you take little flex picture with the currency stacks ordered in the following way.
 
 ![following way](https://github.com/FTrygg/ChaosCounter/blob/master/concept.png?raw=true)
-Picture of concept, example
+(Starting with the highest possible stack in the upper left corner and decreasing the stack by one each time)
 
 Please make sure, that you do not have **any** colour correction turned on or that the stacks are covered by your mouse. With these pictures, I can teach my little program how to deal with aristocracy trades in this game. 
 Right now, **only** 1080p is supported, as this is what I assume the most used resolution. A 1440p version is likely added soon, as this is the biggest resolution size I own. Anything above requires me to either buy a 4k screen (which I cannot afford) or a lot of help from an owner of such a screen. This means this will probably be delayed by quite a bit.
