@@ -20,11 +20,11 @@ for d in a.datas:
         a.datas.remove(d)
         break
 
-a.datas += [('StartWindowBackground.png','ENTER PATH HERE', 'Data'),
-('StartButtonBackground.png','ENTER PATH HERE', 'Data'),
-('CloseButtonBackground.png','ENTER PATH HERE', 'Data'),
-('ComboBoxBackground.png','ENTER PATH HERE', 'Data'),
-('InfoButton.png','ENTER PATH HERE', 'Data'),
+a.datas += [('StartWindowBackground.png','\GUIPictures\StartWindowBackground.png', 'Data'),
+('StartButtonBackground.png','\GUIPictures\StartButtonBackground.png', 'Data'),
+('CloseButtonBackground.png','\GUIPictures\CloseButtonBackground.png', 'Data'),
+('ComboBoxBackground.png','\GUIPictures\ComboBoxBackground.png', 'Data'),
+('InfoButton.png','\GUIPictures\InfoButton.png', 'Data'),
 ('Empty.png','ENTER PATH HERE', 'Data'),
 ('OrbofAlteration.png','ENTER PATH HERE', 'Data'),
 ('OrbofFusing.png','ENTER PATH HERE', 'Data'),
