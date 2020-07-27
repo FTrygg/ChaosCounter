@@ -852,7 +852,7 @@ class Tray(QSystemTrayIcon):
 
         self.eval = QAction("Evaluate...")
         self.eval.triggered.connect(self.notifyMainEval)
-        self.eval.setShortcut(QKeySequence(Qt.CTRL + Qt.Key_E))
+        self.eval.setShortcut(QKeySequence(Qt.SHIFT + Qt.Key_E))
         self.menu.addAction(self.eval)
 
         self.quit = QAction("Quit")
@@ -945,14 +945,14 @@ def main():
 
     keybinder.init()
     unregistered = False
-    keybinder.register_hotkey(controller.winId(), "Ctrl+E", controller.showOverlay)
+    keybinder.register_hotkey(controller.winId(), "Shift+E", controller.showOverlay)
 
     win_event_filter = WinEventFilter(keybinder)
     event_dispatcher = QAbstractEventDispatcher.instance()
     event_dispatcher.installNativeEventFilter(win_event_filter)
 
     sys.exit(app.exec_())
-    keybinder.unregister_hotkey(controller.winId(), "Ctrl+E")
+    keybinder.unregister_hotkey(controller.winId(), "Shift+E")
 
 if __name__ == '__main__':
     main()
