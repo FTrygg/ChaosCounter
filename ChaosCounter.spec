@@ -4,8 +4,7 @@ specpath = os.path.dirname(os.path.abspath(SPEC))
 block_cipher = None
 
 
-a = Analysis(['main.py'],
-             pathex=['ENTER PATH TO main.py HERE'],
+a = Analysis(['ChaosCounter.py'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -88,7 +87,6 @@ a.datas += [('StartWindowBackground.png',specpath + '\\GUIPictures\\StartWindowB
 ('refAwakenedSextant.png',specpath + '\\CurrencyReferences\\AwakenedSextant.png', 'Data'),
 ('refOrbofHorizons.png',specpath + '\\CurrencyReferences\\OrbofHorizons.png', 'Data'),
 ('refSilverCoin.png',specpath + '\\CurrencyReferences\\SilverCoin.png', 'Data')]
-
 
 pyz = PYZ(a.pure, a.zipped_data,
              cipher=block_cipher)
