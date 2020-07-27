@@ -4,7 +4,7 @@ In order to do so, make sure you have the newest version of python 3 installed, 
 
 Library name | more info | pip install
 ------------ | ------------ | ------------
-1. pyautogui  |   link: https://pyautogui.readthedocs.io/en/latest/      |pip:  pip install pyautogui
+pyautogui |link: https://pyautogui.readthedocs.io/en/latest/ | pip:  pip install pyautogui
 2. OpeCV      |   link: https://opencv.org/                              |pip:  pip install opencv-python
 3. PyQt5      |   link: https://pyautogui.readthedocs.io/en/latest/#     |pip:  pip install PyQt5
 4. Pyinstaller|  link: https://www.pyinstaller.org/                     |pip:  pip install pyinstaller
