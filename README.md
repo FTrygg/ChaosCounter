@@ -35,7 +35,7 @@ In order to do so, make sure you have the newest version of python 3 installed, 
 
 Library name | more info | pip install
 ------------ | ------------ | ------------
-Pyautogui|link: https://pyautogui.readthedocs.io/en/latest/|pip install pyautogui
+Pyautogui|https://pyautogui.readthedocs.io/en/latest/|pip install pyautogui
 OpeCV|https://opencv.org/|pip install opencv-python
 PyQt5|https://pyautogui.readthedocs.io/en/latest/#|pip install PyQt5
 Pyinstaller|https://www.pyinstaller.org/|pip install pyinstaller
