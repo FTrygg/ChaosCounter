@@ -36,10 +36,10 @@ In order to do so, make sure you have the newest version of python 3 installed, 
 Library name | more info | pip install
 ------------ | ------------ | ------------
 Pyautogui|link: https://pyautogui.readthedocs.io/en/latest/|pip install pyautogui
-OpeCV|link: https://opencv.org/|pip install opencv-python
-PyQt5|link: https://pyautogui.readthedocs.io/en/latest/#|pip install PyQt5
-Pyinstaller|link: https://www.pyinstaller.org/|pip install pyinstaller
-Pyqtkeybind|link: https://github.com/codito/pyqtkeybind|pip install pyqtkeybind
+OpeCV|https://opencv.org/|pip install opencv-python
+PyQt5|https://pyautogui.readthedocs.io/en/latest/#|pip install PyQt5
+Pyinstaller|https://www.pyinstaller.org/|pip install pyinstaller
+Pyqtkeybind|https://github.com/codito/pyqtkeybind|pip install pyqtkeybind
 (Setuptools)|https://setuptools.readthedocs.io/en/latest/|pip install setuptools
 
 Also important: pyinstaller seems to have some weird issue with "setuptools" as seen here: https://github.com/pypa/setuptools/issues/1963
@@ -49,7 +49,8 @@ Once you have downloaded the .zip of this repository, unpack it. Now run pyinsta
 
 "pyinstaller ChaosCounter.spec"
 
-Make sure you either navigated to the folder where the spec file is located first or instead use the full path to the file.
+Make sure you either navigated to the folder where the spec file is located first or instead use the full path to the file. 
+If you did everything correct, you will now have a new folder in the folder you downloaded called "dist" in which you will find a single file executable!
 
 
 Again, my tool is not perfect, make sure to double check the trade. I am open to suggestions, but understand that I am just a student doing this in my free time. 
