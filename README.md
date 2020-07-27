@@ -29,7 +29,7 @@ This project was started as an excuse for me to investigate the OpenCV library. 
 ~~As a result, my program will only visually show you how much currency of each stack is found, and my source code will not be published. If you think there is a better way of dealing with this, let me know, as I usually am a big fan of sharing code. I just think I could make matters a lot worse, which is not what I strive for.~~  
 
 # How to install
-You will find a conveniently packed .exe file under the release section. I am working on veryfing its content, yet I cannot do that yet since I lack any relevant experience in that field.
+You will find a conveniently packed .exe file under the release section. I am working on veryfing its content, yet I cannot do that at this point in time since I lack any relevant experience in that field.
 If you do not wish to use the .exe file I provided, you can build this program yourself! 
 In order to do so, make sure you have the newest version of python 3 installed, then you will need the following libraries:
 
