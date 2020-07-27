@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['1080ptest.py'],
+a = Analysis(['main.py'],
              pathex=['ENTER PATH TO main.py HERE'],
              binaries=[],
              datas=[],
