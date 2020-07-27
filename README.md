@@ -2,7 +2,7 @@
 
 Tala moana, warrior!
 
-thanks for having a look at my little program. Chaos Counter is a program that helps you sum up currency of both trading inventories, so that even the laziest exiles can engage in currency flipping. When pressing **CTRL+E**, the content of the inventories will be analysed visually, and an overlay will show you just how much each inventory contains. Full stacks will be marked green, while all other stacks are marked yellow, in case somebody wants to do a little switcheroo and scam you with a non-full stack somewhere in the middle. The main advantages are that it is
+thanks for having a look at my little program. Chaos Counter is a program that helps you sum up currency of both trading inventories, so that even the laziest exiles can engage in currency flipping. When pressing **Shift+E**, the content of the inventories will be analysed visually, and an overlay will show you just how much each inventory contains. Full stacks will be marked green, while all other stacks are marked yellow, in case somebody wants to do a little switcheroo and scam you with a non-full stack somewhere in the middle. The main advantages are that it is
 
 * fast
 * does not require permissions
